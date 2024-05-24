@@ -1,5 +1,10 @@
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
+## update
+Modify the CUDA file to be compatible with PyTorch version 1.11 and above
+
+##
+
 **maskrcnn-benchmark has been deprecated. Please see [detectron2](https://github.com/facebookresearch/detectron2), which includes implementations for all models in maskrcnn-benchmark**
 
 This project aims at providing the necessary building blocks for easily
